@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="HYBRID_32b_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="HYBRID_32b" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,730 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,001,255 ps"></ZoomEndTime>
+      <Cursor1Time time="1,001,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="172"></NameColumnWidth>
+      <ValueColumnWidth column_width="172"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/HYBRID_32b/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/B" type="array">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C_IN" type="logic">
+      <obj_property name="ElementShortName">C_IN</obj_property>
+      <obj_property name="ObjectShortName">C_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/SUM" type="array">
+      <obj_property name="ElementShortName">SUM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C_OUT" type="logic">
+      <obj_property name="ElementShortName">C_OUT</obj_property>
+      <obj_property name="ObjectShortName">C_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/A0" type="array">
+      <obj_property name="ElementShortName">A0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/A1" type="array">
+      <obj_property name="ElementShortName">A1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/A2" type="array">
+      <obj_property name="ElementShortName">A2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/A3" type="array">
+      <obj_property name="ElementShortName">A3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/B0" type="array">
+      <obj_property name="ElementShortName">B0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/B1" type="array">
+      <obj_property name="ElementShortName">B1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/B2" type="array">
+      <obj_property name="ElementShortName">B2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/B3" type="array">
+      <obj_property name="ElementShortName">B3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S00" type="array">
+      <obj_property name="ElementShortName">S00[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S00[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S01" type="array">
+      <obj_property name="ElementShortName">S01[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S01[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S02" type="array">
+      <obj_property name="ElementShortName">S02[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S02[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S03" type="array">
+      <obj_property name="ElementShortName">S03[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S03[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S10" type="array">
+      <obj_property name="ElementShortName">S10[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S10[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S11" type="array">
+      <obj_property name="ElementShortName">S11[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S11[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S12" type="array">
+      <obj_property name="ElementShortName">S12[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S12[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S13" type="array">
+      <obj_property name="ElementShortName">S13[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S13[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C00" type="logic">
+      <obj_property name="ElementShortName">C00</obj_property>
+      <obj_property name="ObjectShortName">C00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C01" type="logic">
+      <obj_property name="ElementShortName">C01</obj_property>
+      <obj_property name="ObjectShortName">C01</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C02" type="logic">
+      <obj_property name="ElementShortName">C02</obj_property>
+      <obj_property name="ObjectShortName">C02</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C03" type="logic">
+      <obj_property name="ElementShortName">C03</obj_property>
+      <obj_property name="ObjectShortName">C03</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C10" type="logic">
+      <obj_property name="ElementShortName">C10</obj_property>
+      <obj_property name="ObjectShortName">C10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C11" type="logic">
+      <obj_property name="ElementShortName">C11</obj_property>
+      <obj_property name="ObjectShortName">C11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C12" type="logic">
+      <obj_property name="ElementShortName">C12</obj_property>
+      <obj_property name="ObjectShortName">C12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C13" type="logic">
+      <obj_property name="ElementShortName">C13</obj_property>
+      <obj_property name="ObjectShortName">C13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S0" type="array">
+      <obj_property name="ElementShortName">S0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S1" type="array">
+      <obj_property name="ElementShortName">S1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S2" type="array">
+      <obj_property name="ElementShortName">S2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/S3" type="array">
+      <obj_property name="ElementShortName">S3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/HYBRID_32b/C_O" type="logic">
+      <obj_property name="ElementShortName">C_O</obj_property>
+      <obj_property name="ObjectShortName">C_O</obj_property>
+   </wvobject>
+</wave_config>
