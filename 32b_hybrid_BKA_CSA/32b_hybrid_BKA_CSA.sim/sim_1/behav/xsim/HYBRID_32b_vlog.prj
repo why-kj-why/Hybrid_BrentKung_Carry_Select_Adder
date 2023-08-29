@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Brent_Kung_Adder/Brent_Kung_Adder.srcs/sources_1/new/BKA_8_bit.v" \
+"../../../../../MUX_128x1/MUX_128x1/MUX_128x1.srcs/sources_1/new/MUX_2x1.v" \
+"../../../../32b_hybrid_BKA_CSA.srcs/sources_1/new/MUX_2x1_8b.v" \
+"../../../../../Brent_Kung_Adder/Brent_Kung_Adder.srcs/sources_1/new/O_operator.v" \
+"../../../../32b_hybrid_BKA_CSA.srcs/sources_1/new/HYBRID_32b.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
